@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuPrincipal.unity
+    guid: 3278e44dc715d0e4eadf796dd5bc7456
+  - enabled: 1
+    path: Assets/Scenes/Abertura.unity
+    guid: 62fd118632d4eb04e9f8d56baedc1667
+  - enabled: 1
+    path: Assets/Scenes/MosaicoAudio.unity
+    guid: 9e34e1796f2ba9b4b88455bf6d0e9322
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
